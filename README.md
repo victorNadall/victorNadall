@@ -4,7 +4,7 @@
 
 <hr/>
 
-- 🌱 I'm currently studying Python, specifically the Django framework!
+- 🌱 I’m currently learning **Python**, specifically the Django framework!
 - 📫 Contact me at: contatovictornadal@gmail.com
 
 <hr/>
