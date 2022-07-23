@@ -1,7 +1,6 @@
-<div align="center">
-Victor Augusto
-Python Developer
-</div>
+<h1 align="center">Hi 👋, I'm Victor</h1>
+<h3 align="center">Python Developer</h3>
+
 
 <hr/>
 
@@ -44,6 +43,7 @@ Python Developer
   ![Snake animation](https://github.com/victorNadall/victorNadall/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=victorNadall&style=plastic&label=Views"><img>
