@@ -1,5 +1,6 @@
 <div align="center">
-<h1>Olá eu sou o Victor!</h1>
+Victor Augusto
+Python Developer
 </div>
 
 <hr/>
