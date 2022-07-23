@@ -1,4 +1,8 @@
-### Olá eu sou o Victor!
+<div align="center">
+<h1>Olá eu sou o Victor!</h1>
+</div>
+
+<hr/>
 
 - 🌱 Atualmente estou estudando Python, em específico o framework Django!
 - 📫 Contate-me em: contatovictornadal@gmail.com
