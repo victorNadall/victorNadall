@@ -4,6 +4,7 @@
 
 <hr/>
 
+- 👋 Studying Systems Analysis and Development
 - 🌱 I’m currently learning **Python**, specifically the Django framework!
 - 📫 Contact me at: contatovictornadal@gmail.com
 
