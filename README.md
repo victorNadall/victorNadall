@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">Python Developer</h3>
+<h3 align="center">Developer</h3>
 
 
 <hr/>
 
 - 👋 Studying Systems Analysis and Development
-- 🌱 I’m currently learning **Python**, specifically the Django framework!
+- 🌱 I’m currently learning **Python**, and **React**!
 - 📫 Contact me at: contatovictornadal@gmail.com
 
 <hr/>
