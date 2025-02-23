@@ -17,6 +17,8 @@
    
 </div>
 
+<hr/>
+
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=victorNadall&style=plastic&label=Views"><img>
