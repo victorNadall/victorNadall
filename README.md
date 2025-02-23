@@ -4,12 +4,6 @@
 
 <hr/>
 
-- 👋 Studying Systems Analysis and Development
-- 🌱 I’m currently learning **Python**, and **React**!
-- 📫 Contact me at: contatovictornadal@gmail.com
-
-<hr/>
-
 <div align="center">
   
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
