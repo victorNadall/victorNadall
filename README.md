@@ -1,9 +1,6 @@
 <h1 align="center">victor augusto</h1>
 <h3 align="center">dev</h3>
 
-
-<hr/>
-
 <div align="center">
   
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
