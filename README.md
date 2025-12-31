@@ -4,13 +4,6 @@
 
 <div align="center">
   
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-    <p align="center">
-       <img height="143px" src="https://github-readme-stats.vercel.app/api?username=victorNadall&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=7217D4&icon_color=7217D4" />         
-       <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorNadall&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=7217D4&icon_color=7217D4" />
-    </p>
-
-  
 <hr/>
 
   <a href = "mailto:contatovictornadal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
